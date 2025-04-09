@@ -491,8 +491,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabMeteore: {fileID: 3773350300648841600, guid: 1b5d4655a5f22a2448f2bdddc0e987a7,
     type: 3}
-  delai: 0.01
-  interval: 0.01
+  delai: 3
+  interval: 6
 --- !u!1 &803512490
 GameObject:
   m_ObjectHideFlags: 0
@@ -1406,8 +1406,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabMeteore: {fileID: 3112540505368730294, guid: 73e6f7c38463b274b92a7e7d52afe2fd,
     type: 3}
-  delai: 0.01
-  interval: 0.01
+  delai: 6
+  interval: 6
 --- !u!4 &1488760137
 Transform:
   m_ObjectHideFlags: 0
